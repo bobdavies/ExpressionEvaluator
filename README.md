@@ -27,6 +27,7 @@ This is a Python program that reads mathematical expressions as an input from a 
   (8 / 4) + 7 * 2
   -------------
   10 - (2 + 3) * 4
+  -------------
   
 ## Output File Structure (output.txt)
 
